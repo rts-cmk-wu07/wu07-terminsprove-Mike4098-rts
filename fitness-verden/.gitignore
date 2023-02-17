@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/trainer-api
 # production
 /build
 
